@@ -181,9 +181,9 @@ smart-parking-controller-rtl/
 ├── simulation/
 │   └── testbench.sv
 ├── waveform/
-│   └── simulation_waveform.png
+│   └── waveform.png
 ├── report/
-│   └── project_report.pdf
+│   └── smart parking system report1.pdf
 └── README.md
 ```
 
